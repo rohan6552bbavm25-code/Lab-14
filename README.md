@@ -1,1 +1,11 @@
-# Lab-14
+This project is the **Capstone GenAI Workflow Portfolio** for the BBA Aviation Management programme. The main objective is to design and present an end-to-end Generative AI workflow for a real or fictional aviation-management business problem. The complete workflow follows **Business Brief → Tool Selection → Prompt Design → Content Generation → Human Review → Source Verification → Final Output**.
+
+Students first select an aviation-business problem such as flight-disruption communication, passenger-complaint management, airport awareness campaigns, an aviation policy assistant, passenger-experience improvement or responsible AI training. They prepare a business brief that defines the problem, target audience, objectives, required outputs, privacy and compliance considerations, and the role of the human decision-maker.
+
+The project then requires students to map the complete AI workflow and select appropriate tools for different tasks, including text generation, image creation, presentation design and document-grounded question answering. Students create a **prompt portfolio** containing at least five important prompts, showing initial versions, problems identified, revisions and final outputs.
+
+Students must generate at least one professional workplace-writing output and one visual or designed output. These outputs are reviewed for **accuracy, tone, compliance and context**. A hallucination audit identifies unsupported claims, while a privacy audit checks for personal or confidential information. Students also create a verification trail using **Claim → Source → Match → Context → Action** and apply severity × risk triage to prioritise problems.
+
+The final part involves creating an **8–12 slide capstone presentation** explaining the business problem, tool selection, workflow, prompt improvements, generated outputs, corrections, verification process, risks and human-review responsibilities.
+
+All work is organised into a GitHub portfolio containing the business brief, prompt portfolio, outputs, verification evidence, presentation, visuals, sources and reflection. The project demonstrates how GenAI can support aviation-business tasks while keeping **human judgement, verification, privacy and responsible use** at the centre of the workflow.
